@@ -1,0 +1,27 @@
+#assignment-instructions {
+  background: green;
+  font-family: 'Montserrat', sans-serif;
+}
+.second-li code {
+  color: green;
+}
+
+code {
+  color: red;
+  font-family: monospace;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+ol li {
+  background: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li + li {
+  background: black;
+  color: white;
+}
