@@ -17,7 +17,7 @@
 
 #plans > div {
   /* display: inline-sblock; */
-  text-align: center;
+  /* text-align: center; */
   /* width: 100%; */
 }
 .plan {
@@ -28,6 +28,12 @@
   display: inline-block;
   width: 30%;
   vertical-align: middle;
+}
+
+.plan__list {
+  margin: auto;
+  width: 80%;
+  text-align: center;
 }
 
 .plan--highlighted {
